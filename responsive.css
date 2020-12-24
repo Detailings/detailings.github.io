@@ -1,0 +1,74 @@
+@media only screen and (min-width:720px)
+{
+
+
+#one, #two, #three {
+	background-size:;
+
+}
+
+.info p{
+	padding-top: 5px;
+}
+
+.detailing:before {
+	top: 12px;
+}
+
+.banefit_box {
+	width: 50%;
+}
+
+
+#banefit-one, #banefit-two {
+	margin-left: auto;
+}
+
+#banefit-one {
+	margin-top: -472px;
+}
+
+#banefit-two {
+	margin-top: 24px;
+}
+
+.banefit_desc { 
+	
+}
+
+.advantages {
+	padding-top: 45px;
+}
+
+.advantages:before {
+	left: 200px;
+	top: 40px;
+	height: 50%;
+}
+
+.services:before {
+	left: 250px;
+	top: 25px;
+	height: 50%;
+}
+
+
+hr {
+	display:none;
+}
+
+}
+
+
+@media only screen and (min-width:1080px) {
+	.info p {
+		font-size: 20px;
+		margin-top: 4px;
+	}
+
+
+.banefit_desc {
+	width: 350px;
+}
+
+}
